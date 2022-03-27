@@ -1,2 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+else if (c == 4)
+{
+    Console.WriteLine(a * b);
+}
