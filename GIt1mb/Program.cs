@@ -21,3 +21,7 @@ else if (c == 2)
 {
     Console.WriteLine(a - b);
 }
+else if (c == 3)
+{
+    Console.WriteLine(a / b);
+}
