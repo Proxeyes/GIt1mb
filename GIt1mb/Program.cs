@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+else if (c == 3)
+{
+    Console.WriteLine(a / b);
+}
+
