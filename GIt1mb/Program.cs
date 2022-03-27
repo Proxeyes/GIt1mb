@@ -17,3 +17,7 @@ if (c == 1)
     Console.WriteLine(a + b);
 
 }
+else if (c == 2)
+{
+    Console.WriteLine(a - b);
+}
